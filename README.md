@@ -101,7 +101,7 @@ http://localhost:8080/BloodBankManagementSystem/
 
 ## 📷 Screenshots
 
-Add screenshots of the following pages:
+Added screenshots of the following pages:
 
 - Home/Menu Page
 - Add Donor
